@@ -1,0 +1,18 @@
+{
+    "auto_formatting": true,
+    "autoformat_ignore":
+    [
+        "E309"
+    ],
+    "autoformat_select":
+    [
+    ],
+    "pep8_ignore":
+    [
+        "E309"
+    ],
+    
+    "anaconda_linting_behaviour": "load-save",
+    "anaconda_linter_mark_style": "solid_underline",
+    "anaconda_linter_underlines": false,
+}
