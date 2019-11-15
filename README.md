@@ -4,6 +4,7 @@
 - install Material Theme
 - install Anaconda
 - install sublimeREPL
+- install sidebarEnhancement
 
 # change 
 - overwrite Anaconda setting (change python_interpreter locoally)
